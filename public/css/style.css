@@ -1,0 +1,10 @@
+.card-table,
+.card-admin {
+  overflow-x: auto;
+}
+
+@media (max-width: 800px) { 
+  .password {
+    display: none;
+  }
+}
