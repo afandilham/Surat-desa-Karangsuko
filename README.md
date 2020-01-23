@@ -18,6 +18,7 @@ php artisan serve
 
 * Twitter: [@afandilham](https://twitter.com/afandilham)
 * Github: [@afandilham](https://github.com/afandilham)
+* Instagram: [@afandilham_](https://instagram.com/afandilham)
 
 ## Show your support
 
